@@ -1,10 +1,10 @@
 # Lab 01 - Navigating the Filesystem
 
-## 🎯 Objective
+## Overview
 
-Learn how to navigate the Linux filesystem using basic command-line commands.
+This lab focuses on basic Linux filesystem navigation and directory traversal using command-line utilities.
 
-## 💻 Commands Used
+## Commands Practiced
 
 ```bash
 pwd
@@ -14,13 +14,13 @@ cd
 cd ..
 ```
 
-## 📚 Skills Learned
+## Key Concepts
 
-- Identify current working directory
-- List files and directories
-- View hidden files
-- Navigate between directories
+- Current Working Directory (PWD)
+- Directory Listing
+- Hidden Files
+- Relative and Absolute Paths
 
-## ✅ Outcome
+## Practical Outcome
 
-Successfully navigated the Linux filesystem and explored directory structures.
+Successfully navigated through the Linux filesystem and gained familiarity with essential navigation commands.
