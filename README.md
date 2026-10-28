@@ -26,6 +26,10 @@
 
 ---
 
+## 📑 Verified Lab Index
+
+**[Browse the actual lab files →](LAB_INDEX.md)** — links are generated from existing repository paths.
+
 ## 📚 Lab and Project Documentation
 
 ## About
